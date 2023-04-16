@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_navigation_msgs/share/roseus/ros/pal_navigation_msgs/srv/SaveMap.l

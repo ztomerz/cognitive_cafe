@@ -1,0 +1,2 @@
+set(pal_statistics_msgs_MESSAGE_FILES "/home/tomer/cogrob_project/src/pal_statistics/pal_statistics_msgs/msg/Statistic.msg;/home/tomer/cogrob_project/src/pal_statistics/pal_statistics_msgs/msg/Statistics.msg;/home/tomer/cogrob_project/src/pal_statistics/pal_statistics_msgs/msg/StatisticsNames.msg;/home/tomer/cogrob_project/src/pal_statistics/pal_statistics_msgs/msg/StatisticsValues.msg")
+set(pal_statistics_msgs_SERVICE_FILES "")

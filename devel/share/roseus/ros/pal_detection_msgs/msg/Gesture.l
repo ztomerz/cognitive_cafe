@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/Gesture.l

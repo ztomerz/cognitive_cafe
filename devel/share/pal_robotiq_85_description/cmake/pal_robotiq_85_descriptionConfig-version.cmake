@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_robotiq_85_description/share/pal_robotiq_85_description/cmake/pal_robotiq_85_descriptionConfig-version.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tomer/cogrob_project/devel/.private/joint_torque_sensor_state_controller/setup.sh

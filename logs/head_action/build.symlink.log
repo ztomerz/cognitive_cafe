@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/head_action/cmake/head_actionConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/head_action/cmake/head_actionConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/head_action/head_action
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/head_action.pc

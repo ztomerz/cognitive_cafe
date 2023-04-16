@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/four_wheel_steering_controller/cmake/four_wheel_steering_controllerConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/four_wheel_steering_controller/cmake/four_wheel_steering_controllerConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libfour_wheel_steering_controller.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/four_wheel_steering_controller.pc

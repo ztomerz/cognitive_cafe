@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: say_something
+Description: Description of say_something
+Version: 2.0.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

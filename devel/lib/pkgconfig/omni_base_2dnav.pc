@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/omni_base_2dnav/lib/pkgconfig/omni_base_2dnav.pc

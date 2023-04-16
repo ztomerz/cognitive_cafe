@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_vision_msgs/share/roseus/ros/pal_vision_msgs/srv/FaceTrackingStop.l

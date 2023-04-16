@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_web_msgs/lib/python3/dist-packages/pal_web_msgs/msg/_GetUserInputAction.py

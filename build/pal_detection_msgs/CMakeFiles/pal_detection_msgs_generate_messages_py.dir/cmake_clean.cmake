@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Detection2d.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Detections2d.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_FaceDetection.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_FaceDetections.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_FaceThermalDetections.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Gesture.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_LegDetections.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Obstacle.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Obstacles.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_PersonDetection.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_PersonDetections.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsAction.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionFeedback.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionGoal.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionResult.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsFeedback.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsGoal.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsResult.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizedActions.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizedObject.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizedObjectArray.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RotatedDetection2d.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_TexturedObjectDetection.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_WaveDetection.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/__init__.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_AddTexturedObject.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_ChangeObjectRecognizerModel.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_Recognizer.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_SelectTexturedObject.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_SetDatabase.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_StartEnrollment.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_StopEnrollment.py"
+  "/home/tomer/cogrob_project/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/__init__.py"
+  "CMakeFiles/pal_detection_msgs_generate_messages_py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/pal_detection_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tomer/cogrob_project/devel/.private/roboticsgroup_gazebo_plugins/setup.sh

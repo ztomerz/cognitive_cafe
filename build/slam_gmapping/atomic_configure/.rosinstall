@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tomer/cogrob_project/devel/.private/slam_gmapping/setup.sh

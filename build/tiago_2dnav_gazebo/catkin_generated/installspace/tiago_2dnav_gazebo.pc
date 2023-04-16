@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: tiago_2dnav_gazebo
+Description: Description of tiago_2dnav_gazebo
+Version: 2.3.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

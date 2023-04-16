@@ -1,0 +1,252 @@
+[35m[1mScanning dependencies of target tiago_pcl_tutorial[0m
+[  4%] [32mBuilding CXX object CMakeFiles/tiago_pcl_tutorial.dir/src/pcl_filters.cpp.o[0m
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_gencfg[0m
+[  9%] [34m[1mGenerating dynamic reconfigure files from cfg/region.cfg: /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/regionConfig.h /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/lib/python3/dist-packages/tiago_pcl_tutorial/cfg/regionConfig.py[0m
+Generating reconfiguration files for region in tiago_pcl_tutorial
+Wrote header file in /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/regionConfig.h
+[ 13%] [34m[1mGenerating dynamic reconfigure files from cfg/segment.cfg: /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/segmentConfig.h /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/lib/python3/dist-packages/tiago_pcl_tutorial/cfg/segmentConfig.py[0m
+Generating reconfiguration files for segment in tiago_pcl_tutorial
+Wrote header file in /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/segmentConfig.h
+[ 13%] Built target tiago_pcl_tutorial_gencfg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 13%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _tiago_pcl_tutorial_generate_messages_check_deps_PlaneCoefficients[0m
+[ 13%] Built target _tiago_pcl_tutorial_generate_messages_check_deps_PlaneCoefficients
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[ 13%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 13%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 13%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 13%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target segment_table[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/segment_table.dir/src/nodes/segment_table.cpp.o[0m
+[ 22%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/lib/libtiago_pcl_tutorial.so[0m
+[ 22%] Built target tiago_pcl_tutorial
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[ 22%] Built target topic_tools_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[ 22%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 22%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 22%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 22%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 22%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[ 22%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 22%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[ 22%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[ 22%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[ 22%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[ 22%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[ 22%] Built target pcl_ros_gencfg
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 22%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[ 22%] Built target topic_tools_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[ 22%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[ 22%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[ 22%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[ 22%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[ 22%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[ 22%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 22%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[ 22%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 22%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[ 22%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[ 22%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 22%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 22%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 22%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[ 22%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 22%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[ 22%] Built target pcl_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[ 22%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 22%] Built target pcl_msgs_generate_messages_py
+[ 22%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 22%] Built target sensor_msgs_generate_messages_py
+[ 22%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 22%] Built target geometry_msgs_generate_messages_py
+[ 22%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[ 22%] Built target pcl_msgs_generate_messages_lisp
+[ 22%] Built target pcl_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 22%] Built target topic_tools_generate_messages_py
+[ 22%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[ 22%] Built target roscpp_generate_messages_py
+[ 22%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[ 22%] Built target dynamic_reconfigure_generate_messages_nodejs
+[ 22%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[ 22%] Built target bond_generate_messages_cpp
+[ 22%] Built target bond_generate_messages_eus
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[ 22%] Built target pcl_msgs_generate_messages_eus
+[ 22%] Built target topic_tools_generate_messages_cpp
+[35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[ 22%] Built target nodelet_topic_tools_gencfg
+[ 22%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[ 22%] Built target bond_generate_messages_lisp
+[ 22%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[ 22%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 22%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[ 22%] Built target topic_tools_generate_messages_eus
+[ 22%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[ 22%] Built target dynamic_reconfigure_generate_messages_eus
+[ 22%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 22%] Built target nodelet_generate_messages_cpp
+[ 22%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[ 22%] Built target std_srvs_generate_messages_lisp
+[ 22%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[ 22%] Built target nodelet_generate_messages_lisp
+[ 22%] Built target nodelet_generate_messages_eus
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[ 22%] Built target nodelet_generate_messages_nodejs
+[ 22%] Built target bond_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[ 22%] Built target bond_generate_messages_py
+[ 22%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[ 22%] Built target std_srvs_generate_messages_nodejs
+[ 22%] Built target nodelet_generate_messages_py
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target cylinder_detector[0m
+[ 27%] [34m[1mGenerating Javascript code from tiago_pcl_tutorial/PlaneCoefficients.msg[0m
+[ 27%] Built target tiago_pcl_tutorial_generate_messages_nodejs
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_generate_messages_lisp[0m
+[ 31%] [34m[1mGenerating Lisp code from tiago_pcl_tutorial/PlaneCoefficients.msg[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/nodes/cylinder_detector.cpp.o[0m
+[ 36%] Built target tiago_pcl_tutorial_generate_messages_lisp
+[ 40%] [32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/tf_transforms.cpp.o[0m
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:74:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   74 |                  const std::string& frameId[01;35m[K)[m[K;
+      |                                            [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:77:55:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   77 |                             const std::string& frameId[01;35m[K)[m[K;
+      |                                                       [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:155:67:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  155 |                                         const std::string& frameId[01;35m[K)[m[K
+      |                                                                   [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:265:60:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  265 |                                  const std::string& frameId[01;35m[K)[m[K
+      |                                                            [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K
+[ 45%] [32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/geometry.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/pcl_filters.cpp.o[0m
+[ 54%] [32m[1mLinking CXX executable /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/segment_table[0m
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_generate_messages_py[0m
+[ 59%] [34m[1mGenerating Python from MSG tiago_pcl_tutorial/PlaneCoefficients[0m
+[ 63%] [34m[1mGenerating Python msg __init__.py for tiago_pcl_tutorial[0m
+[ 63%] Built target segment_table
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_generate_messages_eus[0m
+[ 68%] [34m[1mGenerating EusLisp code from tiago_pcl_tutorial/PlaneCoefficients.msg[0m
+[ 68%] Built target tiago_pcl_tutorial_generate_messages_py
+[ 72%] [34m[1mGenerating EusLisp manifest code for tiago_pcl_tutorial[0m
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_generate_messages_cpp[0m
+[ 77%] [34m[1mGenerating C++ code from tiago_pcl_tutorial/PlaneCoefficients.msg[0m
+[ 77%] Built target tiago_pcl_tutorial_generate_messages_cpp
+[35m[1mScanning dependencies of target detect_main_plane[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/detect_main_plane.dir/src/nodes/detect_main_plane.cpp.o[0m
+[ 81%] Built target tiago_pcl_tutorial_generate_messages_eus
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_generate_messages[0m
+[ 81%] Built target tiago_pcl_tutorial_generate_messages
+[35m[1mScanning dependencies of target region_segment[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/region_segment.dir/src/nodes/region_segment.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/cylinder_detector[0m
+[ 90%] Built target cylinder_detector
+[ 95%] [32m[1mLinking CXX executable /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/detect_main_plane[0m
+[ 95%] Built target detect_main_plane
+[100%] [32m[1mLinking CXX executable /home/tomer/cogrob_project/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/region_segment[0m
+[100%] Built target region_segment

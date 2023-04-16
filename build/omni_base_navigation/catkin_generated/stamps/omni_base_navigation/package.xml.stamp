@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>omni_base_navigation</name>
+  <version>0.0.11</version>
+  <description>The omni_base Navigatgion metapackage</description>
+
+  <maintainer email="antonio.brandi@pal-robotics.com">Antonio Brandi</maintainer>
+  <license>Apache License 2.0</license>
+  <author email="antonio.brandi@pal-robotics.com">Antonio Brandi</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>omni_base_laser_sensors</exec_depend>
+  <exec_depend>omni_base_2dnav</exec_depend>
+  <exec_depend>pal_navigation_cfg_omni_base</exec_depend>
+  <exec_depend>omni_base_maps</exec_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

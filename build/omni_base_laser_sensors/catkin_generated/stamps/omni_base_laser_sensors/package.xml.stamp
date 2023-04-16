@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>omni_base_laser_sensors</name>
+  <version>0.0.11</version>
+  <description>omni_base-specific laser sensors launch and config files.</description>
+  <maintainer email="antonio.brandi@pal-robotics.com">Antonio Brandi</maintainer>
+  <license>Modified BSD</license>
+  <author email="antonio.brandi@pal-robotics.com">Antonio Brandi</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>sick_tim</exec_depend>
+  <exec_depend>hokuyo_node</exec_depend>
+  <exec_depend>laser_filters</exec_depend>
+  <exec_depend>pal_filters</exec_depend>
+  <exec_depend>ira_laser_tools</exec_depend>
+</package>

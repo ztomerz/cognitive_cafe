@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/dynamic_introspection/share/gennodejs/ros/dynamic_introspection/msg/MarkerParameter.js

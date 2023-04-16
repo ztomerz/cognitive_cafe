@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: omni_base_maps
+Description: Description of omni_base_maps
+Version: 0.0.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

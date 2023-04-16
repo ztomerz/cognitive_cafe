@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/controller_manager_msgs
+
+Name: controller_manager_msgs
+Description: Description of controller_manager_msgs
+Version: 0.5.3
+Cflags: -I/home/tomer/cogrob_project/devel/.private/controller_manager_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

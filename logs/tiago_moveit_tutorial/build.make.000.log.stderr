@@ -1,0 +1,16 @@
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_moveit_tutorial/src/plan_arm_torso_fk.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_moveit_tutorial/src/plan_arm_torso_fk.cpp:109:47:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing MoveItErrorCode = class moveit::core::MoveItErrorCode[m[K’ is deprecated: Use moveit::core::MoveItErrorCode [[01;35m[K-Wdeprecated-declarations[m[K]
+  109 |   moveit::planning_interface::MoveItErrorCode [01;35m[Ke[m[K = group_arm_torso.move();
+      |                                               [01;35m[K^[m[K
+In file included from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_moveit_tutorial/src/plan_arm_torso_fk.cpp:41[m[K:
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:64:7:[m[K [01;36m[Knote: [m[Kdeclared here
+   64 | using [01;36m[KMoveItErrorCode[m[K [[deprecated("Use moveit::core::MoveItErrorCode")]] = moveit::core::MoveItErrorCode;
+      |       [01;36m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_moveit_tutorial/src/plan_arm_torso_ik.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_moveit_tutorial/src/plan_arm_torso_ik.cpp:106:47:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing MoveItErrorCode = class moveit::core::MoveItErrorCode[m[K’ is deprecated: Use moveit::core::MoveItErrorCode [[01;35m[K-Wdeprecated-declarations[m[K]
+  106 |   moveit::planning_interface::MoveItErrorCode [01;35m[Ke[m[K = group_arm_torso.move();
+      |                                               [01;35m[K^[m[K
+In file included from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_moveit_tutorial/src/plan_arm_torso_ik.cpp:41[m[K:
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:64:7:[m[K [01;36m[Knote: [m[Kdeclared here
+   64 | using [01;36m[KMoveItErrorCode[m[K [[deprecated("Use moveit::core::MoveItErrorCode")]] = moveit::core::MoveItErrorCode;
+      |       [01;36m[K^~~~~~~~~~~~~~~[m[K

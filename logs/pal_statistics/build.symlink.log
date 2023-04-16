@@ -1,0 +1,6 @@
+Symlinking /home/tomer/cogrob_project/devel/share/pal_statistics/cmake/pal_statisticsConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libextract_rosbag_signals.so
+Symlinking /home/tomer/cogrob_project/devel/lib/libpal_statistics.so
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/pal_statistics/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/pal_statistics.pc

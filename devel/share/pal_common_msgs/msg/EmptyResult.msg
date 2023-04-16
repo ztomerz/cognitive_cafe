@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_common_msgs/share/pal_common_msgs/msg/EmptyResult.msg

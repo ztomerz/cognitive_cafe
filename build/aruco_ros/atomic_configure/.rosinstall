@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tomer/cogrob_project/devel/.private/aruco_ros/setup.sh

@@ -1,0 +1,5 @@
+Symlinking /home/tomer/cogrob_project/devel/share/combined_robot_hw_tests/cmake/combined_robot_hw_testsConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/combined_robot_hw_tests/cmake/combined_robot_hw_testsConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libcombined_robot_hw_tests.so
+Symlinking /home/tomer/cogrob_project/devel/lib/combined_robot_hw_tests/combined_robot_hw_dummy_app
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/combined_robot_hw_tests.pc

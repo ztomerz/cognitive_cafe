@@ -1,0 +1,5 @@
+Symlinking /home/tomer/cogrob_project/devel/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/tiago_moveit_tutorial/plan_arm_torso_fk
+Symlinking /home/tomer/cogrob_project/devel/lib/tiago_moveit_tutorial/plan_arm_torso_ik
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/tiago_moveit_tutorial.pc

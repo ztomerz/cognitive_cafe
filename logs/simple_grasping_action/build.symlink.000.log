@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/simple_grasping_action/cmake/simple_grasping_actionConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/simple_grasping_action/cmake/simple_grasping_actionConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/simple_grasping_action/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/simple_grasping_action.pc

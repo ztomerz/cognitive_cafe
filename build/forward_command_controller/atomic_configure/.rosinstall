@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tomer/cogrob_project/devel/.private/forward_command_controller/setup.sh

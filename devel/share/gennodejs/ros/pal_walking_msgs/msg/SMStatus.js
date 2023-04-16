@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_walking_msgs/share/gennodejs/ros/pal_walking_msgs/msg/SMStatus.js

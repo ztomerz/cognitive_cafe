@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: pal_gripper_gazebo
+Description: Description of pal_gripper_gazebo
+Version: 1.0.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

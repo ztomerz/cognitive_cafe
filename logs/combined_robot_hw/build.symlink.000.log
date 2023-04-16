@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libcombined_robot_hw.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/combined_robot_hw.pc

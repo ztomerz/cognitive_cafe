@@ -1,0 +1,9 @@
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/install/strip.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/install/local.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/install.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/list_install_components.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/rebuild_cache.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/edit_cache.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/_catkin_empty_exported_target.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/doxygen.dir
+/home/tomer/cogrob_project/build/navigation_layers/CMakeFiles/download_extra_data.dir

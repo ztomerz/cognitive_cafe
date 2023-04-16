@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/simple_models_description
+
+Name: simple_models_description
+Description: Description of simple_models_description
+Version: 0.0.35
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/gmapping/share/gmapping/cmake/gmappingConfig.cmake

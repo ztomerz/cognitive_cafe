@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_navigation_cfg_ari/share/pal_navigation_cfg_ari/cmake/pal_navigation_cfg_ariConfig.cmake

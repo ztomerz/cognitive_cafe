@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libforce_torque_sensor_controller.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/force_torque_sensor_controller.pc

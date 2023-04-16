@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target actuator_state_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/actuator_state_controller.dir/src/actuator_state_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/actuator_state_controller/lib/libactuator_state_controller.so[0m
+[100%] Built target actuator_state_controller

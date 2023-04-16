@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/humanoid_nav_msgs/share/roseus/ros/humanoid_nav_msgs/msg/ExecFootstepsGoal.l

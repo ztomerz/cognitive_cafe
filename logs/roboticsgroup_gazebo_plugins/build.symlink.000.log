@@ -1,0 +1,5 @@
+Symlinking /home/tomer/cogrob_project/devel/share/roboticsgroup_gazebo_plugins/cmake/roboticsgroup_gazebo_pluginsConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/roboticsgroup_gazebo_plugins/cmake/roboticsgroup_gazebo_pluginsConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libroboticsgroup_gazebo_mimic_joint_plugin.so
+Symlinking /home/tomer/cogrob_project/devel/lib/libroboticsgroup_gazebo_disable_link_plugin.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/roboticsgroup_gazebo_plugins.pc

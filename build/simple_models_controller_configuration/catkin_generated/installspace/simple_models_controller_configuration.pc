@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: simple_models_controller_configuration
+Description: Description of simple_models_controller_configuration
+Version: 0.0.35
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

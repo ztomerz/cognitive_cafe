@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/actuator_state_controller/cmake/actuator_state_controllerConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/actuator_state_controller/cmake/actuator_state_controllerConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libactuator_state_controller.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/actuator_state_controller.pc

@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/dynamic_introspection/share/roseus/ros/dynamic_introspection/msg/DoubleParameter.l

@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_statistics_msgs/lib/pkgconfig/pal_statistics_msgs.pc

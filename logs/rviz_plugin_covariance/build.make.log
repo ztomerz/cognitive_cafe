@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target rviz_plugin_covariance_autogen[0m
+[ 16%] [34m[1mAutomatic MOC and UIC for target rviz_plugin_covariance[0m
+[ 16%] Built target rviz_plugin_covariance_autogen
+[35m[1mScanning dependencies of target rviz_plugin_covariance[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/rviz_plugin_covariance_autogen/mocs_compilation.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/covariance_visual.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/covariance_display.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/odometry_display.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/rviz_plugin_covariance/lib/librviz_plugin_covariance.so[0m
+[100%] Built target rviz_plugin_covariance

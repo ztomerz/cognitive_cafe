@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/aruco/cmake/arucoConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/aruco/cmake/arucoConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libaruco.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/aruco.pc

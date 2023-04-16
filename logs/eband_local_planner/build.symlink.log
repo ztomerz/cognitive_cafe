@@ -1,0 +1,11 @@
+Symlinking /home/tomer/cogrob_project/devel/include/eband_local_planner/EBandPlannerConfig.h
+Symlinking /home/tomer/cogrob_project/devel/share/eband_local_planner/docs/EBandPlannerConfig.wikidoc
+Symlinking /home/tomer/cogrob_project/devel/share/eband_local_planner/docs/EBandPlannerConfig-usage.dox
+Symlinking /home/tomer/cogrob_project/devel/share/eband_local_planner/docs/EBandPlannerConfig.dox
+Symlinking /home/tomer/cogrob_project/devel/share/eband_local_planner/cmake/eband_local_plannerConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/eband_local_planner/cmake/eband_local_plannerConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libeband_local_planner.so
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/eband_local_planner/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/eband_local_planner/cfg/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/eband_local_planner/cfg/EBandPlannerConfig.py
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/eband_local_planner.pc

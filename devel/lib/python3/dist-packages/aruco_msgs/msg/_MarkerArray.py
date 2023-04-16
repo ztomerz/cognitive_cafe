@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/aruco_msgs/lib/python3/dist-packages/aruco_msgs/msg/_MarkerArray.py

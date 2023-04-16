@@ -1,0 +1,7 @@
+Symlinking /home/tomer/cogrob_project/devel/share/play_motion/cmake/play_motionConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/play_motion/cmake/play_motionConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libplay_motion_helpers.so
+Symlinking /home/tomer/cogrob_project/devel/lib/play_motion/run_motion
+Symlinking /home/tomer/cogrob_project/devel/lib/play_motion/play_motion
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/play_motion/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/play_motion.pc

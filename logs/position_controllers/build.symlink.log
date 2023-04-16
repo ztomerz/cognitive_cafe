@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/position_controllers/cmake/position_controllersConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/position_controllers/cmake/position_controllersConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libposition_controllers.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/position_controllers.pc

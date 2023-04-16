@@ -1,0 +1,8 @@
+[01m[K/home/tomer/cogrob_project/src/play_motion/play_motion/src/approach_planner.cpp:[m[K In member function ‘[01m[Kbool play_motion::ApproachPlanner::planApproach(const JointNames&, const std::vector<double>&, play_motion::ApproachPlanner::MoveGroupInterfacePtr, trajectory_msgs::JointTrajectory&)[m[K’:
+[01m[K/home/tomer/cogrob_project/src/play_motion/play_motion/src/approach_planner.cpp:390:53:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing MoveItErrorCode = class moveit::core::MoveItErrorCode[m[K’ is deprecated: Use moveit::core::MoveItErrorCode [[01;35m[K-Wdeprecated-declarations[m[K]
+  390 |   const moveit::planning_interface::MoveItErrorCode [01;35m[Kplanning_ok[m[K = move_group->plan(plan);
+      |                                                     [01;35m[K^~~~~~~~~~~[m[K
+In file included from [01m[K/home/tomer/cogrob_project/src/play_motion/play_motion/src/approach_planner.cpp:48[m[K:
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:64:7:[m[K [01;36m[Knote: [m[Kdeclared here
+   64 | using [01;36m[KMoveItErrorCode[m[K [[deprecated("Use moveit::core::MoveItErrorCode")]] = moveit::core::MoveItErrorCode;
+      |       [01;36m[K^~~~~~~~~~~~~~~[m[K

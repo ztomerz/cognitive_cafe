@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig.cmake

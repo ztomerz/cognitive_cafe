@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/tiago_pick_demo/lib/pkgconfig/tiago_pick_demo.pc

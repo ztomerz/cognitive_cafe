@@ -1,0 +1,9 @@
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/install/strip.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/install/local.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/install.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/list_install_components.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/rebuild_cache.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/edit_cache.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/_catkin_empty_exported_target.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/doxygen.dir
+/home/tomer/cogrob_project/build/ros_control/CMakeFiles/download_extra_data.dir

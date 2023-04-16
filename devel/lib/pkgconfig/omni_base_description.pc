@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/omni_base_description/lib/pkgconfig/omni_base_description.pc

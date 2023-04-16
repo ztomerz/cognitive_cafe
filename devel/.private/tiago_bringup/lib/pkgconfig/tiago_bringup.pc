@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/tiago_bringup
+
+Name: tiago_bringup
+Description: Description of tiago_bringup
+Version: 2.3.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

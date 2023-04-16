@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_multirobot_msgs/share/roseus/ros/pal_multirobot_msgs/msg/WifiServiceDetection.l

@@ -1,0 +1,5 @@
+Symlinking /home/tomer/cogrob_project/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libcontroller_manager.so
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/controller_manager/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/controller_manager.pc

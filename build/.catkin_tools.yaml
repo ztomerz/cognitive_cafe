@@ -1,0 +1,6 @@
+devel_space: /home/tomer/cogrob_project/devel
+install: false
+install_space: /home/tomer/cogrob_project/install
+profile: default
+source_space: /home/tomer/cogrob_project/src
+workspace: /home/tomer/cogrob_project

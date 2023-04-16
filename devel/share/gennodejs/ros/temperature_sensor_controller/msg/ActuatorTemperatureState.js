@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/temperature_sensor_controller/share/gennodejs/ros/temperature_sensor_controller/msg/ActuatorTemperatureState.js

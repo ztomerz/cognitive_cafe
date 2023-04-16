@@ -1,0 +1,5 @@
+Symlinking /home/tomer/cogrob_project/devel/share/key_teleop/cmake/key_teleopConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/key_teleop/cmake/key_teleopConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/key_teleop/key_teleop.py
+Symlinking /home/tomer/cogrob_project/devel/lib/key_teleop/cmake.lock
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/key_teleop.pc

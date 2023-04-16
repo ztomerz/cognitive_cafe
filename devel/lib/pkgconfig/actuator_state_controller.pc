@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/actuator_state_controller/lib/pkgconfig/actuator_state_controller.pc

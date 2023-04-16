@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: controller_interface
+Description: Description of controller_interface
+Version: 0.5.3
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp hardware_interface pluginlib

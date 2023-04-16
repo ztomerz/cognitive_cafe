@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/aruco/share/aruco/cmake/arucoConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/gripper_action_controller/cmake/gripper_action_controllerConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/gripper_action_controller/cmake/gripper_action_controllerConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libgripper_action_controller.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/gripper_action_controller.pc

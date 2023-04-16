@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/controller_manager_tests
+
+Name: controller_manager_tests
+Description: Description of controller_manager_tests
+Version: 0.5.3
+Cflags: -I/home/tomer/cogrob_project/src/ros_control/controller_manager_tests/include
+Libs: -L${prefix}/lib -lcontroller_manager_tests
+Requires: controller_manager controller_interface

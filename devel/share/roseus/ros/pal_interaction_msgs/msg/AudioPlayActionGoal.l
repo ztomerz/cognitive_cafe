@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_interaction_msgs/share/roseus/ros/pal_interaction_msgs/msg/AudioPlayActionGoal.l

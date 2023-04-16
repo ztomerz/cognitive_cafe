@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/pmb2_controller_configuration
+
+Name: pmb2_controller_configuration
+Description: Description of pmb2_controller_configuration
+Version: 3.0.27
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

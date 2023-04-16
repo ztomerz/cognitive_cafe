@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/rviz_plugin_covariance
+
+Name: rviz_plugin_covariance
+Description: Description of rviz_plugin_covariance
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

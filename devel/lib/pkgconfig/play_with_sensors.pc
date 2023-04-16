@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/play_with_sensors/lib/pkgconfig/play_with_sensors.pc

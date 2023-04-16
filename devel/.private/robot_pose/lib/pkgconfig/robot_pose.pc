@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/robot_pose
+
+Name: robot_pose
+Description: Description of robot_pose
+Version: 1.0.9
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

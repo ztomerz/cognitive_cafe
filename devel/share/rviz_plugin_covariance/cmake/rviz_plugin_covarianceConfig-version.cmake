@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/rviz_plugin_covariance/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig-version.cmake

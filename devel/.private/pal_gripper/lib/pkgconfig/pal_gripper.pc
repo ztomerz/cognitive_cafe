@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/pal_gripper
+
+Name: pal_gripper
+Description: Description of pal_gripper
+Version: 1.0.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

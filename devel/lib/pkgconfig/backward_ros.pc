@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/backward_ros/lib/pkgconfig/backward_ros.pc

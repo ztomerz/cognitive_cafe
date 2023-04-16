@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_tablet_msgs/share/common-lisp/ros/pal_tablet_msgs/msg/_package_RobotStatus.lisp

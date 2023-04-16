@@ -1,0 +1,6 @@
+Symlinking /home/tomer/cogrob_project/devel/share/robot_pose/cmake/robot_poseConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/robot_pose/cmake/robot_poseConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/robot_pose/robot_pose_node
+Symlinking /home/tomer/cogrob_project/devel/lib/robot_pose/distance_publisher_node
+Symlinking /home/tomer/cogrob_project/devel/lib/robot_pose/fake_odom_publisher
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/robot_pose.pc

@@ -1,0 +1,44 @@
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:74:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   74 |                  const std::string& frameId[01;35m[K)[m[K;
+      |                                            [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:77:55:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   77 |                             const std::string& frameId[01;35m[K)[m[K;
+      |                                                       [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:155:67:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  155 |                                         const std::string& frameId[01;35m[K)[m[K
+      |                                                                   [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K
+[01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:265:60:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint64_t = uint64_t[m[K’ is deprecated: use std::uint64_t instead of pcl::uint64_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  265 |                                  const std::string& frameId[01;35m[K)[m[K
+      |                                                            [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:5[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/include/tiago_pcl_tutorial/pcl_filters.hpp:38[m[K,
+                 from [01m[K/home/tomer/cogrob_project/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/segment_table.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:98:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   98 |   using [01;36m[Kuint64_t[m[K [[deprecated("use std::uint64_t instead of pcl::uint64_t")]] = std::uint64_t;
+      |         [01;36m[K^~~~~~~~[m[K

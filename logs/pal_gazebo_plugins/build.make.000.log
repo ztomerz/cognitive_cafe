@@ -1,0 +1,34 @@
+[35m[1mScanning dependencies of target pal_gazebo_collisions[0m
+[  6%] [32mBuilding CXX object CMakeFiles/pal_gazebo_collisions.dir/src/pal_gazebo_collisions.cpp.o[0m
+[35m[1mScanning dependencies of target gazebo_attachment[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/gazebo_attachment.dir/src/gazebo_attachment.cpp.o[0m
+[35m[1mScanning dependencies of target gazebo_world_odometry[0m
+[35m[1mScanning dependencies of target pal_multirobot_msgs_generate_messages_cpp[0m
+[ 12%] Built target pal_multirobot_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_ros_forcetorque[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/gazebo_world_odometry.dir/src/gazebo_world_odometry.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/gazebo_ros_forcetorque.dir/src/gazebo_ros_forcetorque.cpp.o[0m
+[ 31%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libgazebo_ros_forcetorque.so[0m
+[ 37%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libgazebo_attachment.so[0m
+[ 37%] Built target gazebo_ros_forcetorque
+[35m[1mScanning dependencies of target gazebo_harness[0m
+[ 43%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libgazebo_world_odometry.so[0m
+[ 43%] Built target gazebo_attachment
+[35m[1mScanning dependencies of target gazebo_pal_hand[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gazebo_harness.dir/src/gazebo_harness.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/gazebo_pal_hand.dir/src/gazebo_pal_hand.cpp.o[0m
+[ 56%] Built target gazebo_world_odometry
+[35m[1mScanning dependencies of target gazebo_underactuated_finger[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/gazebo_underactuated_finger.dir/src/gazebo_underactuated_finger.cpp.o[0m
+[ 68%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libpal_gazebo_collisions.so[0m
+[ 68%] Built target pal_gazebo_collisions
+[35m[1mScanning dependencies of target gazebo_wifi_ap[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/gazebo_wifi_ap.dir/src/gazebo_wifi_ap.cpp.o[0m
+[ 81%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libgazebo_pal_hand.so[0m
+[ 87%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libgazebo_harness.so[0m
+[ 87%] Built target gazebo_pal_hand
+[ 87%] Built target gazebo_harness
+[ 93%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libgazebo_underactuated_finger.so[0m
+[ 93%] Built target gazebo_underactuated_finger
+[100%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/pal_gazebo_plugins/lib/libgazebo_wifi_ap.so[0m
+[100%] Built target gazebo_wifi_ap

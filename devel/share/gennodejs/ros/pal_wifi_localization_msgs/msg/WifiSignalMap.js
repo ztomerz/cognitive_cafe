@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_wifi_localization_msgs/share/gennodejs/ros/pal_wifi_localization_msgs/msg/WifiSignalMap.js

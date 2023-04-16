@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/tiago_trajectory_controller/cmake/tiago_trajectory_controllerConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/tiago_trajectory_controller/cmake/tiago_trajectory_controllerConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/tiago_trajectory_controller/run_traj_control
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/tiago_trajectory_controller.pc

@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_hardware_interfaces/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig-version.cmake

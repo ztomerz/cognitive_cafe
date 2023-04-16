@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/tiago_aruco_demo/lib/pkgconfig/tiago_aruco_demo.pc

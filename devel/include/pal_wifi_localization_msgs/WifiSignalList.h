@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_wifi_localization_msgs/include/pal_wifi_localization_msgs/WifiSignalList.h

@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/tiago_trajectory_controller
+
+Name: tiago_trajectory_controller
+Description: Description of tiago_trajectory_controller
+Version: 2.0.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

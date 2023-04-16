@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target eband_local_planner_gencfg[0m
+[ 14%] [34m[1mGenerating dynamic reconfigure files from cfg/EBandPlanner.cfg: /home/tomer/cogrob_project/devel/.private/eband_local_planner/include/eband_local_planner/EBandPlannerConfig.h /home/tomer/cogrob_project/devel/.private/eband_local_planner/lib/python3/dist-packages/eband_local_planner/cfg/EBandPlannerConfig.py[0m
+Generating reconfiguration files for EBandPlanner in eband_local_planner
+Wrote header file in /home/tomer/cogrob_project/devel/.private/eband_local_planner/include/eband_local_planner/EBandPlannerConfig.h
+[ 14%] Built target eband_local_planner_gencfg
+[35m[1mScanning dependencies of target eband_local_planner[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/eband_local_planner.dir/src/eband_local_planner_ros.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/eband_local_planner.dir/src/eband_local_planner.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/eband_local_planner.dir/src/conversions_and_types.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/eband_local_planner.dir/src/eband_visualization.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/eband_local_planner.dir/src/eband_trajectory_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/tomer/cogrob_project/devel/.private/eband_local_planner/lib/libeband_local_planner.so[0m
+[100%] Built target eband_local_planner

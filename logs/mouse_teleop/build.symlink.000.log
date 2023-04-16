@@ -1,0 +1,5 @@
+Symlinking /home/tomer/cogrob_project/devel/share/mouse_teleop/cmake/mouse_teleopConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/mouse_teleop/cmake/mouse_teleopConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/mouse_teleop/cmake.lock
+Symlinking /home/tomer/cogrob_project/devel/lib/mouse_teleop/mouse_teleop.py
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/mouse_teleop.pc

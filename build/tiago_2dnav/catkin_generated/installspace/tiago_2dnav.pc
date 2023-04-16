@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: tiago_2dnav
+Description: Description of tiago_2dnav
+Version: 2.1.16
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/backward_ros/cmake/backward_rosConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/backward_ros/cmake/backward_rosConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libbackward.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/backward_ros.pc

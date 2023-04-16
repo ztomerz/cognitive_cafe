@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/install
+
+Name: pmb2_gazebo
+Description: Description of pmb2_gazebo
+Version: 2.0.32
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

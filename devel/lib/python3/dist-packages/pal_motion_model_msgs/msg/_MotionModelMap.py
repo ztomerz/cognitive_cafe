@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_motion_model_msgs/lib/python3/dist-packages/pal_motion_model_msgs/msg/_MotionModelMap.py

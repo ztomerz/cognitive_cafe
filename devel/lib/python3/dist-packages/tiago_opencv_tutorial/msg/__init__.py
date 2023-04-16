@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/tiago_opencv_tutorial/lib/python3/dist-packages/tiago_opencv_tutorial/msg/__init__.py

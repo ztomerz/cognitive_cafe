@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/msg/MarkerArray.l

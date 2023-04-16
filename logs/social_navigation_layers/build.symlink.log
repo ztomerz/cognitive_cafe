@@ -1,0 +1,11 @@
+Symlinking /home/tomer/cogrob_project/devel/include/social_navigation_layers/ProxemicLayerConfig.h
+Symlinking /home/tomer/cogrob_project/devel/share/social_navigation_layers/docs/ProxemicLayerConfig.dox
+Symlinking /home/tomer/cogrob_project/devel/share/social_navigation_layers/docs/ProxemicLayerConfig-usage.dox
+Symlinking /home/tomer/cogrob_project/devel/share/social_navigation_layers/docs/ProxemicLayerConfig.wikidoc
+Symlinking /home/tomer/cogrob_project/devel/share/social_navigation_layers/cmake/social_navigation_layersConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/social_navigation_layers/cmake/social_navigation_layersConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/libsocial_layers.so
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/social_navigation_layers/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/social_navigation_layers/cfg/__init__.py
+Symlinking /home/tomer/cogrob_project/devel/lib/python3/dist-packages/social_navigation_layers/cfg/ProxemicLayerConfig.py
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/social_navigation_layers.pc

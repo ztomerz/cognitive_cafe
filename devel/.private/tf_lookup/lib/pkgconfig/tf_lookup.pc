@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/tf_lookup
+
+Name: tf_lookup
+Description: Description of tf_lookup
+Version: 0.0.1
+Cflags: -I/home/tomer/cogrob_project/devel/.private/tf_lookup/include -I/home/tomer/cogrob_project/src/tf_lookup/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs geometry_msgs message_runtime tf

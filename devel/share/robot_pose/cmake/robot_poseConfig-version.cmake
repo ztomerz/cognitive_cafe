@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/robot_pose/share/robot_pose/cmake/robot_poseConfig-version.cmake

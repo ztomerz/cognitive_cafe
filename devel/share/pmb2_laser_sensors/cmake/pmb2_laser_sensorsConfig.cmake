@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pmb2_laser_sensors/share/pmb2_laser_sensors/cmake/pmb2_laser_sensorsConfig.cmake

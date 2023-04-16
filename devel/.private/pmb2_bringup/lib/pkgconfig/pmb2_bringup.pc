@@ -1,0 +1,8 @@
+prefix=/home/tomer/cogrob_project/devel/.private/pmb2_bringup
+
+Name: pmb2_bringup
+Description: Description of pmb2_bringup
+Version: 3.0.27
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

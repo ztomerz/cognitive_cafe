@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/joy_teleop/cmake/joy_teleopConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/joy_teleop/cmake/joy_teleopConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/joy_teleop/incrementer_server
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/joy_teleop.pc

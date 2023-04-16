@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pal_statistics_msgs/share/gennodejs/ros/pal_statistics_msgs/msg/_index.js

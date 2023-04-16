@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pmb2_rgbd_sensors/lib/pkgconfig/pmb2_rgbd_sensors.pc

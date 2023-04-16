@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pmb2_maps/share/pmb2_maps/cmake/pmb2_mapsConfig.cmake

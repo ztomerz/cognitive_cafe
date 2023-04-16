@@ -1,0 +1,4 @@
+Symlinking /home/tomer/cogrob_project/devel/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig-version.cmake
+Symlinking /home/tomer/cogrob_project/devel/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig.cmake
+Symlinking /home/tomer/cogrob_project/devel/lib/librviz_plugin_covariance.so
+Symlinking /home/tomer/cogrob_project/devel/lib/pkgconfig/rviz_plugin_covariance.pc

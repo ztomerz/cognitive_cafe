@@ -1,0 +1,1 @@
+/home/tomer/cogrob_project/devel/.private/pmb2_controller_configuration/lib/pkgconfig/pmb2_controller_configuration.pc
